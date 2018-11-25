@@ -1,0 +1,61 @@
+﻿body
+{
+color:white;
+background-color:black;
+text-indent:19px;
+}
+
+#t1
+{
+background-color:maroon;
+width:100%;
+text-shadow:royalblue 4px 4px 4px;
+font-family:AR DELANEY;
+font-size:xx-large;
+}
+
+a
+{
+text-decoration:none;
+text-shadow:blue 0px 0px 12px;
+}
+
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: cyan;
+}
+
+a:active {
+    color: pink;
+}
+
+#ht
+{
+font-style:italic,bold;
+font-family:AR BLANCA;
+width:100%;
+height:70px;
+}
+
+#bt
+{
+background-color:maroon;
+width:100%;
+height:1000px;
+font-family:Zawgyi-One;
+}
+
+#ft
+{
+width:100%;
+font-family:AR DELANEY;
+text-shadow:blue 0px 0px 10px;
+}
